@@ -40,7 +40,7 @@ const Navbar = () => {
             <a href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
             >
-            ali
+            Yslan
             </a>
             <button onClick={()=> setIsOpen(!isOpen)} 
             className="flex cursor-pointer text-neutral-400 hover:text-white focus:outline-none sm:hidden"
